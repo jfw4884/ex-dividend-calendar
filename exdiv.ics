@@ -1,0 +1,166 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: Johnson Outdoors Inc. Class A Common Stock\nTicker: JOUT\nDividend: \nPay Date: 
+SUMMARY:JOUT Ex-Dividend Date
+UID:e41b1f61-cf9b-472b-9ad0-b77d6cdb394b@e41b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Company: Capitol Federal Financial\, Inc. Common Stock\nTicker: CFFN\nDividend: \nPay Date: 
+SUMMARY:CFFN Ex-Dividend Date
+UID:fad3641e-b991-4d96-a3ed-4cc00f3b7921@fad3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Escalade\, Incorporated Common Stock\nTicker: ESCA\nDividend: \nPay Date: 
+SUMMARY:ESCA Ex-Dividend Date
+UID:a0c42238-40d6-4860-826b-8efd1579c4bf@a0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: Millicom International Cellular S.A. Common Stock\nTicker: TIGO\nDividend: \nPay Date: 
+SUMMARY:TIGO Ex-Dividend Date
+UID:d14891f3-1aa3-447c-a57e-bc684ff05d8e@d148.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Werner Enterprises\, Inc. Common Stock\nTicker: WERN\nDividend: \nPay Date: 
+SUMMARY:WERN Ex-Dividend Date
+UID:e8917aee-45b6-43a8-9bb9-4e4eb1012885@e891.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: Match Group\, Inc. Common Stock\nTicker: MTCH\nDividend: \nPay Date: 
+SUMMARY:MTCH Ex-Dividend Date
+UID:ab72eba7-4255-4a54-8d69-a349193de4a4@ab72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: LifeMD\, Inc. 8.875% Series A Cumulative Perpetual Preferred Stock\nTicker: LFMDP\nDividend: \nPay Date: 
+SUMMARY:LFMDP Ex-Dividend Date
+UID:9839f628-df63-4d73-850a-6d34d450ef06@9839.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Dominari Holdings Inc. Common Stock\nTicker: DOMH\nDividend: \nPay Date: 
+SUMMARY:DOMH Ex-Dividend Date
+UID:fb0f9799-c001-4a3d-81ee-c67b4a22a6f5@fb0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260107
+DESCRIPTION:Company: Gentex Corporation Common Stock\nTicker: GNTX\nDividend: \nPay Date: 
+SUMMARY:GNTX Ex-Dividend Date
+UID:d42dd025-bc79-40eb-9268-222c132f7697@d42d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Hingham Institution for Savings Common Stock\nTicker: HIFS\nDividend: \nPay Date: 
+SUMMARY:HIFS Ex-Dividend Date
+UID:05e238c9-d043-4b55-8fbd-a93bdcb480ce@05e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: Landstar System\, Inc. Common Stock\nTicker: LSTR\nDividend: \nPay Date: 
+SUMMARY:LSTR Ex-Dividend Date
+UID:2934fcc7-0532-4273-8620-14fd5b676879@2934.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: Cricut\, Inc. Class A Common Stock\nTicker: CRCT\nDividend: \nPay Date: 
+SUMMARY:CRCT Ex-Dividend Date
+UID:c8461fc9-a32b-4be6-952a-d1ebfea225b8@c846.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Cadiz\, Inc. Depositary Shares\nTicker: CDZIP\nDividend: \nPay Date: 
+SUMMARY:CDZIP Ex-Dividend Date
+UID:ae4037b1-fc3e-4e3f-8fc2-78e77e5c4a42@ae40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: Waterstone Financial\, Inc. Common Stock (MD)\nTicker: WSBF\nDividend: \nPay Date: 
+SUMMARY:WSBF Ex-Dividend Date
+UID:576d44d6-a8d5-4e6b-89ac-222b7f9af4e7@576d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: Preferred Bank Common Stock\nTicker: PFBC\nDividend: \nPay Date: 
+SUMMARY:PFBC Ex-Dividend Date
+UID:0e6b9ad1-f912-405b-b4a0-670f8f0b169e@0e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: First Bancorp\, Inc  (ME) Common Stock\nTicker: FNLC\nDividend: \nPay Date: 
+SUMMARY:FNLC Ex-Dividend Date
+UID:48048232-3f7f-4870-91ac-5a44fadcbf5d@4804.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: NorthEast Community Bancorp\, Inc. Common Stock\nTicker: NECB\nDividend: \nPay Date: 
+SUMMARY:NECB Ex-Dividend Date
+UID:8517828c-75a2-4cc6-9517-7c57cb4c6331@8517.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Company: GE HealthCare Technologies Inc. Common Stock \nTicker: GEHC\nDividend: \nPay Date: 
+SUMMARY:GEHC Ex-Dividend Date
+UID:72c8eac5-28f5-49d3-beb2-5a4687b3982a@72c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: Medalist Diversified REIT\, Inc. Common Stock\nTicker: MDRR\nDividend: \nPay Date: 
+SUMMARY:MDRR Ex-Dividend Date
+UID:be1ba8ad-5860-4dfa-a6b3-328f0d202b7e@be1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: Ingles Markets\, Incorporated Class A Common Stock\nTicker: IMKTA\nDividend: \nPay Date: 
+SUMMARY:IMKTA Ex-Dividend Date
+UID:56d7429d-5990-4333-8e7b-d28730119cf5@56d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260107
+DESCRIPTION:Company: Opera Limited American Depositary Shares\nTicker: OPRA\nDividend: \nPay Date: 
+SUMMARY:OPRA Ex-Dividend Date
+UID:0a2f5589-676e-42ed-87f5-00d52e1ee19c@0a2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Riverview Bancorp Inc Common Stock\nTicker: RVSB\nDividend: \nPay Date: 
+SUMMARY:RVSB Ex-Dividend Date
+UID:7ff33c0f-2943-4289-999a-eb2793a6a969@7ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260105
+DESCRIPTION:Company: Preformed Line Products Company Common Stock\nTicker: PLPC\nDividend: \nPay Date: 
+SUMMARY:PLPC Ex-Dividend Date
+UID:9171ecdf-210b-490f-82dc-716ec39ca2cb@9171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Company: Marvell Technology\, Inc. Common Stock\nTicker: MRVL\nDividend: \nPay Date: 
+SUMMARY:MRVL Ex-Dividend Date
+UID:eddc26a4-d328-49ae-b196-6d37b441f0d5@eddc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260106
+DESCRIPTION:Company: Erie Indemnity Company Class A Common Stock\nTicker: ERIE\nDividend: \nPay Date: 
+SUMMARY:ERIE Ex-Dividend Date
+UID:61ca7abe-2950-4585-bfda-4facc2562061@61ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DESCRIPTION:Company: Intuit Inc. Common Stock\nTicker: INTU\nDividend: \nPay Date: 
+SUMMARY:INTU Ex-Dividend Date
+UID:3f4f18db-570f-48d5-be05-171caa762324@3f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260108
+DESCRIPTION:Company: The Campbell's Company Common Stock\nTicker: CPB\nDividend: \nPay Date: 
+SUMMARY:CPB Ex-Dividend Date
+UID:5d9522d0-ce2a-48ed-b85c-2c676230e735@5d95.org
+END:VEVENT
+END:VCALENDAR
